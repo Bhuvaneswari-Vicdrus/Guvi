@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Task4_5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		Scanner num = new Scanner(System.in);
 		

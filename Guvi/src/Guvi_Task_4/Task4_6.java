@@ -14,6 +14,7 @@ public class Task4_6 {
 		int temp = 1;
 		
 		for(int i=1; i<=No ;i++ ) {
+			
 			temp = i * temp;
 		}
 		
