@@ -1,4 +1,4 @@
-package Guvi_Task_4;
+package guvi_Task_4;
 
 import java.util.Scanner;
 
