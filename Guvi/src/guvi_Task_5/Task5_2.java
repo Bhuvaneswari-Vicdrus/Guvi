@@ -10,7 +10,7 @@ public class Task5_2 {
 		
 		System.out.println("Enter the String to reverse: ");
 		
-		String S = sc.nextLin	e();
+		String S = sc.nextLine();
 		
 		String rev = "";
 		
@@ -25,3 +25,4 @@ public class Task5_2 {
 	}
 
 }
+
