@@ -8,7 +8,7 @@ public class Task5_7 {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Enter the values of a, b, c, d");
+		System.out.println("Enter the values of a, b, c");
 		
 		int a = sc.nextInt();
 		int b = sc.nextInt();
@@ -29,3 +29,4 @@ public class Task5_7 {
 	}
 
 }
+
